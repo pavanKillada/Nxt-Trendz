@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.cart-summary {
+  font-family: 'roboto';
+  margin-left: auto;
+}
+.total-price-text {
+  color: #616e7c;
+  font-size: 30px;
+}
+.total-price {
+  color: black;
+}
+.items-in-cart-para {
+  color: gray;
+  font-size: 20px;
+}
+.checkout-btn {
+  background-color: #0b69ff;
+  color: white;
+  padding: 10px;
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
+  outline: none;
+  font-size: 20px;
+  width: 100%;
+  margin-bottom: 50px;
+}
